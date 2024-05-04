@@ -7,3 +7,5 @@ Este es el repo del proyecto
 
 ## Instrucciones
 Por definir!! Esto es nuevo
+
+Author: David
